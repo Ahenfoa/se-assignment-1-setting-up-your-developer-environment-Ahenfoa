@@ -1,0 +1,62 @@
+1. Select Your Operating System (OS):
+
+Chosen OS: Linux (Ubuntu 20.04)
+
+Review: Ubuntu 20.04 was selected for its compatibility with development tools and strong community support. This choice aligns with the guidelines' recommendation to choose an OS based on preferences and project requirements.
+
+2. Install a Text Editor or IDE:
+
+Selected IDE: Visual Studio Code
+
+Review: Visual Studio Code was installed using the command line via Snap. This method ensures a straightforward installation process and aligns with common practices for installing software on Linux systems.
+
+3. Set Up Version Control System:
+
+Version Control System: Git
+
+Review: Git was installed via the command line using the package manager. Global user configuration was set up to ensure proper identification in commits. The GitHub account was created, and a Git repository was initialized for the project. These steps demonstrate a thorough implementation of version control.
+
+4. Install Necessary Programming Languages and Runtimes:
+
+Programming Language: Python
+
+Review: Python 3 was installed using the package manager. Verification of the installation confirms that Python is correctly set up on the system, ensuring compatibility with Python-based projects.
+
+5. Install Package Managers:
+
+Package Manager: pip (Python)
+
+Review: Pip for Python package management was installed via the package manager. Verification of the installation ensures that pip is ready to manage Python dependencies, meeting the requirements for Python-based development.
+
+6. Configure a Database (MySQL):
+
+Database: MySQL
+
+Review: MySQL database was installed using the package manager. Configuration steps were followed to set up the root password. Verification of the installation and connection confirms that MySQL is properly configured and ready for use in development projects.
+
+7. Set Up Development Environments and Virtualization (Optional):
+
+Tools: Docker, VirtualBox (Optional)
+
+Review: Docker and VirtualBox were considered as optional tools for virtualization but were not implemented for this project. While virtualization can provide benefits such as isolated environments, the decision not to use these tools is valid depending on project requirements and personal preferences.
+
+8. Explore Extensions and Plugins:
+
+IDE Extensions: Visual Studio Code Plugins
+Review: Relevant extensions for Visual Studio Code were explored and installed to enhance functionality for Python development. This proactive step ensures an optimized development environment tailored to the project's needs.
+
+Submission:
+
+GitHub Repository:
+
+Repository Name: se-assignment-1-setting-up-your-developer-environment-Ahenfoa
+
+Repository Link: se-assignment-1-setting-up-your-developer-environment-Ahenfoa
+
+Reflection:
+
+Challenges Faced: Challenges related to MySQL configuration and compatibility between different tools and versions on Linux were encountered.
+
+Strategies Employed: Strategies such as thorough research, consulting documentation, and experimenting with configurations were employed to overcome challenges.
+
+Outcome: Despite challenges, the setup was successfully completed, and valuable experience in configuring a development environment on Linux was gained.
